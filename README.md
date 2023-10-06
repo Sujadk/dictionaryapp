@@ -1,7 +1,7 @@
 # dictionaryapp
 a simple dictionary app using react.js
 
-this react project is absed on react useState hookjs, useEffects hooks, css design and api.
+this react project is based on react useState hooks, useEffects hooks, css design and api.
 
 api used: https://dictionaryapi.dev/
 
