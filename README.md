@@ -6,4 +6,4 @@ this react project is absed on react useState hookjs, useEffects hooks, css desi
 api used: https://dictionaryapi.dev/
 
 
-for styling: https://mui.com/(material ui)
+for styling: https://mui.com/ (material ui)
